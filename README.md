@@ -27,8 +27,10 @@
 
 
 <img class="image" src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="Spring Framework" width="50"></img>
-
-
+<img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1280px-React_Logo_SVG.svg.png" width="50" alt="React" ></img>
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/f4a2bf59-ae34-4f47-9353-ee3abea889a1" />
+<img class="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Spring Framework" width="50"></img>
+<img class="image" src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="Spring Framework" width="50"></img>
 
 <!--
 **Vansh0129/Vansh0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
