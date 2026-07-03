@@ -20,7 +20,11 @@
   📫 How to reach me <u>  <a href="vanshlute0129@gmail.com"> vanshlute0129@gmail.com </a>  </u>
 </div>
 <div>
-  <img src=profGif.gif name="PortFolioImaga" width=50% height=50%><img>
+  <img src=https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif
+    name="PortFolioImaga"
+    width=50% height=50%
+    alt="Fail to fetch the Url !" >
+  <img>
 </div>
 </div>
 
