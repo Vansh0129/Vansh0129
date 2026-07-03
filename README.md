@@ -27,7 +27,7 @@
 
   <p>📫 How to reach me <u>  <a href="vanshlute0129@gmail.com"> vanshlute0129@gmail.com </a></u></p>
  <p align="center">
-    <a href="mailto:VanshLute@gmail.com" title="Gmail">
+    <a href="VanshLute@gmail.com" title="Gmail">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="42" height="40" alt="Gmail"/>
   </a>
    
