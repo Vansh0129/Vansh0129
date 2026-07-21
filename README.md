@@ -81,6 +81,9 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="K8S" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="50" alt="java" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width="50" alt="Html" >
+
+<img  alt="tailwind" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KRF2KUVqHuSh4jJccD2jSJ7hAgRDt0AN9_kAQeDzZA&s=10" width="50" />
+
 <img  alt="redis" src="https://github.com/user-attachments/assets/f154d69b-a0c1-4e32-a3a7-772346a2cb38" width="50" />
 
 <img src="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"  width="50" alt="GIT" >
