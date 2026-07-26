@@ -77,6 +77,7 @@
 <img class="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="my sql" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50">
 <img src="https://www.w3schools.com/js/img_javascript_480.jpg" alt="JS" width="50">
+<img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" alt="ZOD" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50"></img>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="K8S" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="50" alt="java" >
