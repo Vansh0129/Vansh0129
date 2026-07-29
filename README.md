@@ -95,7 +95,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Open+to+Open+Source+Contributions;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vansh0129/Vansh0129/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vansh0129/Vansh0129/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Vansh0129/Vansh0129/output/github-snake.svg"
+  />
+</picture>
 <!--
 **Vansh0129/Vansh0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
