@@ -101,7 +101,7 @@
     srcset="https://raw.githubusercontent.com/Vansh0129/Vansh0129/output/github-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Vansh0129/Vansh0129/output/github-snake.svg"
   />
   <img
